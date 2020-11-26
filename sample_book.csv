@@ -1,9 +1,9 @@
-Team,Captain,Vice Captain
-RCB,Virat Kohli,AB de villers
-MI,Rohit Sharma,K Pollard
-CSK,MS Dhoni,A Jadeja
-KXP,KL Rahul,M Agarwal
-KKR,D Kartik,A Russel
-SRH,Dwarner,M Pandey
-DC,S Iyer,R Pant
-RR,S Smith,A Rahane
+Team,Captain,Vice Captain,Won times,Total Seasons,Total Squad
+RCB,Virat Kohli,AB de villers,NaN,12,40
+MI,Rohit Sharma,K Pollard,5,12,38
+CSK,MS Dhoni,A Jadeja,3,10,41
+KXP,KL Rahul,M Agarwal,NaN,11,42
+KKR,D Kartik,A Russel,2,8,39
+SRH,Dwarner,M Pandey,1,7,39
+DC,S Iyer,R Pant,NaN,12,40
+RR,S Smith,A Rahane,1,8,38
