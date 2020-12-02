@@ -1,9 +1,9 @@
-Team,Captain,Vice_Captain,Won_times,Total_Seasons,Squad_team
-RCB,Virat Kohli,AB de villers,NaN,12,40
-MI,Rohit Sharma,K Pollard,5,12,38
-CSK,MS Dhoni,A Jadeja,3,10,41
-KXP,KL Rahul,M Agarwal,NaN,11,42
-KKR,D Kartik,A Russel,2,8,38
-SRH,Dwarner,M Pandey,1,7,39
-DC,S Iyer,R Pant,2,12,40
-RR,S Smith,A Rahane,1,8,39
+Team,Captain,Vice_Captain,Won_times,Total_Seasons,Squad_team,Type,Age
+RCB,Virat Kohli,AB de villers,NaN,12,40,IPL,30-35
+MI,Rohit Sharma,K Pollard,5,12,38,IPL,30-35
+CSK,MS Dhoni,A Jadeja,3,10,41,ODI,35-40
+KXP,KL Rahul,M Agarwal,NaN,11,42,ODI,25-30
+KKR,D Kartik,A Russel,2,8,38,ODI,30-35
+SRH,Dwarner,M Pandey,1,7,39,IPL,20-25
+DC,S Iyer,R Pant,2,12,40,Domestic,20-25
+RR,S Smith,A Rahane,1,8,39,Domestic,25-30
